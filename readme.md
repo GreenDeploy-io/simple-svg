@@ -5,7 +5,7 @@
 
 Also it's very common to build square or circle images holding a single alphabetic upper case letter for user profiles, website logos, etc.
 
-Given this need, this repo provides a sq.svg and a c.svg for such needs.
+Given this need, this repo provides some common sq.svg and a c.svg for such needs.
 
 ## How to use
 
